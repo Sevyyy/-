@@ -1,2 +1,1 @@
-# Matlab
-Some matlab code by Sevy in some class
+# 数值分析课和数字图像处理课的matlab实验代码
